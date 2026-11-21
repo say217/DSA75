@@ -33,3 +33,15 @@ def highest_occurring_element(nums):
 nums = [1, 2, 2, 3, 3, 3, 2, 1]
 
 print(highest_occurring_element(nums))
+
+
+
+'''
+inf
+It is a special floating-point value that is greater than every 
+finite numerical value.
+Output:
+Why do we use it in DSA?
+Suppose you want to find the smallest number in an array.
+You need an initial value that is greater than every possible array element.
+'''
