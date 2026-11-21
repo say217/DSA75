@@ -9,7 +9,7 @@ A structured collection of 75 Data Structures and Algorithms problems solved usi
 
 Topics
 
-- Arrays & Hashing,
+- Arrays & Hashing
 - Strings
 - Searching & Sorting
 - Two Pointers
@@ -23,6 +23,7 @@ Topics
 
 Repository Structure
 
+```bash
 DSA-75/
 ├── Arrays/
 ├── Strings/
@@ -32,7 +33,7 @@ DSA-75/
 ├── Graphs/
 ├── Stack_Queue/
 └── README.md
-
+```
 Goals
 
 - Strengthen problem-solving skills.
@@ -44,4 +45,4 @@ Language: Python 3
 
 ---
 
- Consistency over perfection. One problem at a time.
+Consistency over perfection. One problem at a time.
